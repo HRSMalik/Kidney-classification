@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+src/CNNClassifier/__init__.py
+src/CNNClassifier/components/__init__.py
+src/CNNClassifier/config/__init__.py
+src/CNNClassifier/config/configuration.py
+src/CNNClassifier/constants/__init__.py
+src/CNNClassifier/entity/__init__.py
+src/CNNClassifier/pipeline/__init__.py
+src/CNNClassifier/utils/__init__.py
+src/kidneydisease.egg-info/PKG-INFO
+src/kidneydisease.egg-info/SOURCES.txt
+src/kidneydisease.egg-info/dependency_links.txt
+src/kidneydisease.egg-info/top_level.txt
