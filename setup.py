@@ -9,7 +9,7 @@ __version__ = "0.0.1"
 REPOSITORY_NAME = "Kidney-classification"
 AUTHOR_USER_NAME = "HRSMalik"
 SRC_REPO = "kidneydisease"
-AUTHOR_EMAIL = "hrsmlik1798@gmail.com"
+AUTHOR_EMAIL = "hrsmalik1798@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
