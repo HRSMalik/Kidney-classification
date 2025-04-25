@@ -8,3 +8,11 @@ etc
 include
 share
 logs
+artifacts
+*.egg-info
+*.egg
+*.whl
+*.tar.gz
+*.zip
+*.tar
+*.gz    
