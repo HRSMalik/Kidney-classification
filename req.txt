@@ -17,6 +17,6 @@ Flask
 Flask-Cors
 gdown
 kagglehub
-ray[all]
+ipykernel
 ipywidgets
 -e .
