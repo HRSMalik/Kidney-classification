@@ -8,6 +8,8 @@ etc
 include
 share
 logs
+artifacts/*
+!artifacts/training/
 *.egg-info
 *.egg
 *.whl
