@@ -29,8 +29,8 @@ if __name__ == "__main__":
     STAGE_NAME = "Model Training stage"
     try:
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-        # obj = ModelTrainingPipeline()
-        # obj.main()
+        obj = ModelTrainingPipeline()
+        obj.main()
         logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<")
     except Exception as e:
         logger.exception(e)
